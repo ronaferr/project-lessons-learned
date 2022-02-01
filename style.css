@@ -8,3 +8,11 @@ header {
 img {
     width: 200px
 }
+h1, h2 {
+    font-family: cursive;
+    color: seagreen;
+}
+p {
+    font-size: 17px;
+    line-height: 30px;
+}
