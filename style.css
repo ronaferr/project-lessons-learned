@@ -16,19 +16,34 @@ nav a {
 img {
     width: 200px;
     border-radius: 20px;
+    border: 2px solid gray;
 }
 
 h1, h2 {
     font-family: cursive;
     color: seagreen;
+    margin-left: 3%;
 }
-p {
+nav a {margin-left: 3%;}
+.textos p {
     font-size: 17px;
     line-height: 30px;
+    margin-left: 3%;
 }
 footer p, a {
-    background-color: darkslategray;
     color: seagreen;
     font-family: cursive;
-    text-decoration: none;
+    text-decoration: none;   
 }
+footer {
+    background-color: darkslategray;
+    width: 100%;
+}
+footer p {
+    margin-left: 3%;
+}
+
+.prof {margin-top: 8%;}
+
+.textos, .listas, .prof {display: flex;}
+table, tr, td {border: 2px solid black;}
