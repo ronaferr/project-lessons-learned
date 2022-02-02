@@ -1,13 +1,23 @@
 body {
-    background-color: rgb(253, 251, 251)
+    background-color: rgb(253, 251, 251);
+    padding: 3px;
 }
 header {
     position: fixed; 
-    top:0%
+    top:0%;
+    width: 100%;
+    background-color: darkslategray;
+}
+nav a {
+    color: seagreen;
+    font-family: cursive;
+    text-decoration: none;
 }
 img {
-    width: 200px
+    width: 200px;
+    border-radius: 20px;
 }
+
 h1, h2 {
     font-family: cursive;
     color: seagreen;
@@ -15,4 +25,10 @@ h1, h2 {
 p {
     font-size: 17px;
     line-height: 30px;
+}
+footer p, a {
+    background-color: darkslategray;
+    color: seagreen;
+    font-family: cursive;
+    text-decoration: none;
 }
