@@ -1,13 +1,12 @@
 # Projeto Lições Aprendidas!
 
-Você vai desenvolver um site que contenha uma série de informações sobre o que você aprendeu aqui na Trybe ao longo dos últimos três blocos. Seu site deverá estar com elementos posicionados e estilizados e além disto, deverá conter semântica apropriada para que seja acessível e melhor ranqueado.
+- Projeto desenvolvido na Trybe
 
-## Desenvolvimento
+#  Contexto
+Este projeto trata-se de um um site que contem uma série de informações sobre lições aprendidas na Trybe ao longo dos três primeiros blocos
 
-Você deve desenvolver uma página HTML estilizada com CSS.
+##  Tecnologias usadas
 
-Através desta aplicação, será possível realizar a construção de código HTML, posicionamento e estilização CSS.
+> Desenvolvido usando: CSS3, HTML5, ES6
 
 [Página da aplicação](https://ronaferr.github.io/project-lessons-learned/)
-
----
